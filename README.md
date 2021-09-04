@@ -1,2 +1,2 @@
-# Amazon-Web-Services-AWS-
+# Amazon-Web-Services
 This repository will contain all the detailed information related to Amazon Web Services.
