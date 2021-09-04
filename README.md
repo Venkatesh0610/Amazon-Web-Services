@@ -1,2 +1,12 @@
-# Amazon-Web-Services(AWS)
-This repository will contain all the detailed information related to Amazon Web Services.
+
+# Amazon Web Service (AWS)
+
+Amazon web service is a platform that offers flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions.
+
+And in this repository you will get all the detailed information of various services provided by Amazon Web Service.
+
+
+## Topics 
+
+-   EC2
+
